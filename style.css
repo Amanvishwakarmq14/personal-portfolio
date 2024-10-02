@@ -605,8 +605,16 @@ span {
         width: 80vw;
     }
 
+    .home-content p {
+        font-size: 2rem;
+    }
+
     .about-img img {
         width: 45vw;
+    }
+
+    .about-content p {
+        font-size: 1.5rem;
     }
 
     .footer {
