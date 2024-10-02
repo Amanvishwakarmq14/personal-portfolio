@@ -605,6 +605,10 @@ span {
         width: 80vw;
     }
 
+    .home-content h1 {
+        font-size: 3rem;
+    }
+
     .home-content p {
         font-size: 2rem;
     }
