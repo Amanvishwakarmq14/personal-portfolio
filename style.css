@@ -602,11 +602,11 @@ span {
 
 @media(max-width:450px) {
     .home-img img {
-        width: 45vw;
+        width: 80vw;
     }
 
     .about-img img {
-        width: 90vw;
+        width: 45vw;
     }
 
     .footer {
